@@ -1,6 +1,6 @@
 #implementation add
 def add(x,y):
-  pass
+  return x+y
 
 #implementation sub
 def sub(x,y):
